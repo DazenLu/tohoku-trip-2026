@@ -1,6 +1,0 @@
-GitHub connector write check
-owner: DazenLu
-repo: tohoku-trip-2026
-branch: main
-checked_at: 2026-09-30T14:12:00-06:00
-status: ok
